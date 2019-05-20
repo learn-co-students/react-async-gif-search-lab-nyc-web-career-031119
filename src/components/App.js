@@ -1,8 +1,9 @@
 import React from 'react'
 
 import NavBar from './NavBar'
+// import GifListContainer from '../containers/GiftListContainer'
 
-// the App component should render out the GifListContainer component 
+// the App component should render out the GifListContainer component
 
 const App = () => {
   return (
@@ -12,4 +13,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;
